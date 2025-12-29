@@ -31,19 +31,20 @@ The project is **command-line based** and focuses on the complete machine learni
 ---
 
 ## 📂 Project Structure
+
 Spam_Email_Classifier/
 │
 ├── dataset/
-│ └── spamm
+│   └── spamm
 │
 ├── model/
-│ ├── spam_model.pkl
-│ └── vectorizer.pkl
+│   ├── spam_model.pkl
+│   └── vectorizer.pkl
 │
 ├── src/
-│ ├── data_preprocessing.py
-│ ├── main.py
-│ └── predict.py
+│   ├── data_preprocessing.py
+│   ├── main.py
+│   └── predict.py
 │
 └── README.md
 
